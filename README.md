@@ -1,2 +1,2 @@
 # Research-papers
-It includes the research that I have either read or planning to read.
+It includes the research papers that I have either read or planning to read in the future.
