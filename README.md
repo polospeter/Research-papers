@@ -10,3 +10,6 @@ https://blog.twitter.com/engineering/en_us/topics/open-source/2023/twitter-recom
 
 Unleashing ML Innovation at Spotify with Ray:
 https://engineering.atspotify.com/2023/02/unleashing-ml-innovation-at-spotify-with-ray/
+
+Getting started with NLP using Hugging Face transformers pipelines:
+https://www.databricks.com/blog/2023/02/06/getting-started-nlp-using-hugging-face-transformers-pipelines.html
