@@ -16,3 +16,6 @@ https://www.databricks.com/blog/2023/02/06/getting-started-nlp-using-hugging-fac
 
 Time-Series Forecasting: Deep Learning vs Statistics — Who Wins?
 https://towardsdatascience.com/time-series-forecasting-deep-learning-vs-statistics-who-wins-c568389d02df
+
+Dolly Large Language Model
+https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm
